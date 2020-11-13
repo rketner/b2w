@@ -1,0 +1,8 @@
+/home/rketner/b2w/src/main/java/com/b2w/api/controller/SearchController.java
+/home/rketner/b2w/src/main/java/com/b2w/api/exception/BadRequestException.java
+/home/rketner/b2w/src/main/java/com/b2w/api/exception/InternalServerErrorException.java
+/home/rketner/b2w/src/main/java/com/b2w/api/controller/response/Search.java
+/home/rketner/b2w/src/main/java/com/b2w/api/service/SearchService.java
+/home/rketner/b2w/src/main/java/com/b2w/api/config/AppConfiguration.java
+/home/rketner/b2w/src/main/java/com/b2w/api/exception/NotFoundException.java
+/home/rketner/b2w/src/main/java/com/b2w/api/exception/HttpStatusException.java

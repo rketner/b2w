@@ -1,0 +1,8 @@
+com/b2w/api/exception/HttpStatusException.class
+com/b2w/api/config/AppConfiguration.class
+com/b2w/api/exception/NotFoundException.class
+com/b2w/api/exception/BadRequestException.class
+com/b2w/api/controller/SearchController.class
+com/b2w/api/exception/InternalServerErrorException.class
+com/b2w/api/controller/response/Search.class
+com/b2w/api/service/SearchService.class
